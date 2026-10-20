@@ -1,0 +1,10 @@
+{
+  "name": "signalloop",
+  "version": "1.1.0",
+  "private": true,
+  "description": "SignalLoop: campus issue reporting front end (demo, no backend)",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "format": "npx --yes prettier --write ."
+  }
+}
